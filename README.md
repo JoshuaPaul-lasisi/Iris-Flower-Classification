@@ -1,1 +1,1 @@
-# Iris-Flower-Classification-A-Benchmark-for-Classification-Algorithms
+# Iris Flower Classification: A Benchmark for Classification Algorithms

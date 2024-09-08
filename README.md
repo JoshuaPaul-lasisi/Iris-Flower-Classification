@@ -1,6 +1,6 @@
 # Iris Dataset Classification Project
 ## Overview
-This project involves analyzing and classifying the Iris dataset, a well-known dataset in machine learning, using various classification algorithms. The primary objective is to build and evaluate models to predict Iris flower species based on their features. The dataset comprises 150 samples of Iris flowers, categorized into three species: Iris-setosa, Iris-versicolor, and Iris-virginica.
+The Iris Dataset Classification Project involves predicting the species of Iris flowers using machine learning classification models. The aim is to explore basic and advanced models, compare their performance, and understand the characteristics of the dataset and features that influence model predictions. The dataset comprises 150 samples of Iris flowers, categorized into three species: Iris-setosa, Iris-versicolor, and Iris-virginica.
 
 ## Steps Involved
 1. Data Exploration: Analyzed the dataset to understand its structure, class distribution, and feature characteristics.
